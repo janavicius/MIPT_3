@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MIPT_3</string>
+
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_equals">=</string>
+    <string name="button_inverse">1/x</string>
+    <string name="button_percent">%</string>
+    <string name="button_root">√</string>
+    <string name="button_memory_clear">MC</string>
+    <string name="button_memory_recall">MR</string>
+    <string name="button_memory_store">MS</string>
+    <string name="button_memory_add">M+</string>
+    <string name="button_memory_subtract">M-</string>
+    <string name="button_backspace">←</string>
+    <string name="button_clear_entry">CE</string>
+    <string name="button_clear_all">C</string>
+    <string name="button_plus_minus">±</string>
+</resources>
